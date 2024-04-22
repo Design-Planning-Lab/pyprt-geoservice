@@ -28,3 +28,5 @@ b'Traceback (most recent call last):\r\n  File "C:\\Users\\SEED110\\Documents\\g
 ```
 
 
+## Package versions
+pyprt                             1.8.0.7  
